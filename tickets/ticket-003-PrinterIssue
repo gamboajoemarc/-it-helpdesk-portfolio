@@ -1,0 +1,34 @@
+# Ticket ID: 003
+**User:** David Chen  
+**Issue:** Printer not working  
+**Priority:** Medium  
+**Status:** Resolved  
+
+---
+
+## Description:
+User unable to print documents.
+
+---
+
+## Troubleshooting Steps:
+
+1. Logged ticket in ServiceNow
+2. Connected via TeamViewer
+3. Checked printer status
+4. Verified default printer
+5. Restarted print spooler
+6. Reinstalled printer driver
+7. Tested print
+
+---
+
+## Resolution:
+Printer working after driver reinstall.
+
+---
+
+## Tools Used:
+- ServiceNow
+- TeamViewer
+- Windows Print Management
