@@ -1,0 +1,39 @@
+# Printer Troubleshooting Guide
+
+## Purpose:
+To resolve printing issues.
+
+---
+
+## Steps:
+
+1. Log issue in ServiceNow
+2. Connect via TeamViewer
+
+3. Check:
+   - Power
+   - Cable
+   - Network connection
+
+4. Verify default printer
+
+5. Restart print spooler
+
+6. Reinstall driver
+
+7. Test print
+
+---
+
+## Double Check:
+
+- Printer is online
+- Test print successful
+- User confirms working
+
+---
+
+## Tools:
+- ServiceNow
+- TeamViewer
+- Windows Tools
