@@ -1,0 +1,37 @@
+# Ticket ID: 002
+**User:** Maria Lopez  
+**Issue:** Unable to connect to VPN  
+**Priority:** High  
+**Status:** Resolved  
+
+---
+
+## Description:
+User unable to connect to VPN from home network.
+
+---
+
+## Troubleshooting Steps:
+
+1. Logged ticket in ServiceNow
+2. Verified internet connection
+3. Initiated remote session via TeamViewer
+4. Checked VPN client configuration
+5. Verified credentials in Active Directory
+6. Checked account status in Microsoft Entra ID
+7. Reset password
+8. Retested VPN connection
+
+---
+
+## Resolution:
+VPN access restored after password reset.
+
+---
+
+## Tools Used:
+- ServiceNow
+- TeamViewer
+- Active Directory
+- Microsoft Entra ID
+- VPN Client
