@@ -1,0 +1,40 @@
+# VPN Troubleshooting Guide
+
+## Purpose:
+To resolve VPN connectivity issues.
+
+---
+
+## Steps:
+
+1. Log issue in ServiceNow
+2. Verify internet connection
+3. Start remote session using TeamViewer
+
+4. Check VPN client:
+   - Installed?
+   - Updated?
+
+5. Verify credentials in Active Directory
+
+6. Check account sync/status in Microsoft Entra ID
+
+7. Reset password if authentication fails
+
+8. Test VPN connection
+
+---
+
+## Double Check:
+
+- VPN connects successfully
+- User can access internal resources
+- No authentication errors
+
+---
+
+## Tools:
+- ServiceNow
+- TeamViewer
+- Active Directory
+- Microsoft Entra ID
