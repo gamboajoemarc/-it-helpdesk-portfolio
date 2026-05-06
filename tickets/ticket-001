@@ -1,0 +1,36 @@
+# Ticket ID: 001
+**User:** John Smith  
+**Issue:** Unable to login  
+**Priority:** High  
+**Status:** Resolved  
+
+---
+
+## Description:
+User cannot login to company account after multiple attempts.
+
+---
+
+## Troubleshooting Steps:
+
+1. Created ticket in ServiceNow
+2. Verified user identity via security questions
+3. Remote session initiated using TeamViewer
+4. Checked account status in Active Directory
+5. Confirmed account is locked
+6. Reset password in Active Directory
+7. Verified user sync in Microsoft Entra ID
+8. Asked user to login
+
+---
+
+## Resolution:
+User successfully logged in after password reset and account unlock.
+
+---
+
+## Tools Used:
+- ServiceNow
+- TeamViewer
+- Active Directory
+- Microsoft Entra ID
